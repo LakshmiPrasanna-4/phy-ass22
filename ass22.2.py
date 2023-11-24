@@ -45,27 +45,18 @@ b1=Button(result,text="Submit",command=myresult)
 res=Label(result,text="?") 
 sem1.grid(row=0,column=0)
 sem1points.grid(row=0,column=1)
-
 sem2.grid(row=1,column=0)
 sem2points.grid(row=1,column=1)
-
 sem3.grid(row=2,column=0)
 sem3points.grid(row=2,column=1)
-
 sem4.grid(row=3,column=0)
 sem4points.grid(row=3,column=1)
-
 sem5.grid(row=4,column=0)
 sem5points.grid(row=4,column=1)
-
 sem6.grid(row=5,column=0)
 sem6points.grid(row=5,column=1)
-
 b1.grid(row=6,column=0)
 res.grid(row=6,column=1)
-
-
-
 result.mainloop()
 
     
